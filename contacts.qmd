@@ -25,10 +25,11 @@ We also regularly receive critical feedback from the California Issues Workgroup
 
 ## Former OIMA Fellows
 
-| Name              | Title             | Fellowship Period |
-|-------------------|-------------------|-------------------|
-| Kevin Song        | Stanford Fellow   | Summer 2024       |
-| Daly Wettermark   | Stanford Fellow   | Summer 2024       |
-| Leah Benton       | CivicSpark Fellow | 2023-2024         |
-| Josh Davenport    | Stanford Fellow   | Summer 2023       |
-| Badhia Yunes Katz | CivicSpark Fellow | 2022-2023         |
+| Name                | Title             | Fellowship Period |
+|---------------------|-------------------|-------------------|
+| Chloe Yu-Ning Cheng | Stanford Fellow   | Summer 2025       |
+| Kevin Song          | Stanford Fellow   | Summer 2024       |
+| Daly Wettermark     | Stanford Fellow   | Summer 2024       |
+| Leah Benton         | CivicSpark Fellow | 2023-2024         |
+| Josh Davenport      | Stanford Fellow   | Summer 2023       |
+| Badhia Yunes Katz   | CivicSpark Fellow | 2022-2023         |
