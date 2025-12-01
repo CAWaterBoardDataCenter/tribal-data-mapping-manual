@@ -22,6 +22,10 @@ All Water Boards authors are **bolded** below.
 
 ## Other Data Visualization Tools
 
+[Vulnerable Communities Platform (VCP)](https://vcp.lci.ca.gov/) - A new tool developed by the Governor's Office of Land Use and Climate Innovation (LCI) to help identify California communities most impacted by climate change. This tool offers a map for communities to assess their level of vulnerability to wildfires, extreme heat, flooding, and drought. This platform also has a "tool comparison" feature to overlay and compare related tools such as CalEnviroScreen or Healthy Places Index. Lastly, VCP offers a curated list of climate vulnerability resources including grants, major policy requirements, state and local planning guidelines, and ways to connect with other community-based organizations working on climate resilience.
+
+[CalEnviroScreen](https://oehha.ca.gov/calenviroscreen) - CalEnviroScreen is a mapping tool that helps identify California communities that are most affected by many sources of pollution, and where people are often especially vulnerable to pollution's effects. It uses environmental, health, and socioeconomic information to produce scores for every census tract in the state. The scores are mapped so that different communities can be compared. An area with a high score is one that experiences a much higher pollution burden that areas with low scores.
+
 [Tribal Drinking Water](https://cawaterdatadive.shinyapps.io/ca-tribal-data/) - This tool is intended to compile and display information that can inform and help prioritize outreach related to drinking water issues in tribal areas within California. It is a work in progress, and is not intended to be a comprehensive source of tribal-related water data.
 
 [Healthy Places Index (HPI)](https://map.healthyplacesindex.org/?) - The HPI maps data on social conditions that drive health — like education, job opportunities, clean air and water, and other indicators that are positively associated with life expectancy at birth. The HPI is a project of the Public Health Alliance of Southern California, with the aim of supporting efforts to prioritize equitable community investments and policy.

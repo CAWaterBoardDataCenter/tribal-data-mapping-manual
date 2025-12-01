@@ -496,7 +496,85 @@ Contact: [California Integrated Water Quality System (CIWQS)](https://www.waterb
 
 ## Water Quality
 
-*New layers coming soon*
+### SWAMP Data
+
+::: callout-note
+SWAMP data are downloaded from [California's Open Data Portal](https://data.ca.gov/dataset/surface-water-ambient-monitoring-program) and edited to refine, format, and synthesize the data before uploading it into the Tribal Water Data Map. If you are interested in seeing the raw data, please refer to the SWAMP Data Dashboard page on the California Open Data Portal linked above. There is also additional information regarding data sourced from California Environmental Data Exchange Network (CEDEN), data dictionaries, metadata, and related resources.
+:::
+
+#### Tissue Summary:
+
+The tissue summary data set includes annual summary statistics of contaminant concentrations in aquatic organism tissue samples. The data are derived from raw individual and composite tissue sample results. For the purpose of this map, we have decided to filter out all contaminants other than mercury, and display the most recent data collected from each site.
+
+Symbology is aligned with the thresholds used by the Office of Environmental Health Hazard Assessment (OEHHA). Each site contains multiple records with different species, and therefore, different mercury concentrations. The color represented on the map is from the first species recorded at the site.
+
+::: callout-note
+Make sure to look at each individual species report to check the mercury concentrations, as the color representing the general category of OEHHA thresholds may not accurately represent each species at every site.
+:::
+
+An additional note: The Location Code column has been removed from the data set in order to streamline the information presented. However, the location code is appended to the end of the Results column data and the full length description of the location code can be found [here](https://ceden.org/CEDEN_Checker/Checker/DisplayCEDENLookUp.php?List=LocationLookUp) in the data dictionary.
+
+*screenshot coming soon*
+
+Source: [SWAMP Data Dashboard - Dataset - California Open Data](https://data.ca.gov/dataset/surface-water-ambient-monitoring-program)
+
+Metadata: [SWAMP Data Dashboard - Dataset - California Open Data](https://data.ca.gov/dataset/surface-water-ambient-monitoring-program)
+
+Source update frequency: As needed, as of October 2025 updates to all SWAMP data layers is static and conducted manually. Future goals are to automate this process so updates can occur with greater frequency.
+
+*manually updated here October 2025*
+
+Contact: swamp\@waterboards.ca.gov
+
+#### Water Quality:
+
+The SWAMP water quality data includes field and lab analysis results for chemical and physical parameters measured in water samples.
+
+Some of the columns have been removed from the data set for a more streamlined presentation on the map. If you are interested in seeing the full data set, please refer to the source link below. Additionally, if you are seeking information regarding what each column means/what data it is communicating, please refer to the [data dictionary](https://s3.amazonaws.com/og-production-open-data-cademo-892364687672/resources/5f21288d-a770-4651-9427-beffce1ffdbf/swamp-data-dashboard_wq_data-dictionary.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJJIENTAPKHZMIPXQ%2F20251014%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251014T193602Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2ce5a1eb10556367c1a07ee7369dbaa08426b356773d0a195be66d9660e3ba28).
+
+*screenshot coming soon*
+
+Source: [SWAMP Data Dashboard - Dataset - California Open Data](https://data.ca.gov/dataset/surface-water-ambient-monitoring-program)
+
+Metadata: [SWAMP Data Dashboard - Dataset - California Open Data](https://data.ca.gov/dataset/surface-water-ambient-monitoring-program)
+
+Source update frequency: As needed, as of October 2025 updates to all SWAMP data layers is static and conducted manually. Future goals are to automate this process so updates can occur with greater frequency.
+
+*manually updated here October 2025*
+
+Contact: swamp\@waterboards.ca.gov
+
+#### Toxicity Summary: 
+
+The SWAMP toxicity summary data includes summarized results from aquatic toxicity tests. Summary records are entries in the database that summarize the results from multiple replicate toxicity tests of the same sample water.
+
+*screenshot coming soon*
+
+Source: [SWAMP Data Dashboard - Dataset - California Open Data](https://data.ca.gov/dataset/surface-water-ambient-monitoring-program)
+
+Metadata: [SWAMP Data Dashboard - Dataset - California Open Data](https://data.ca.gov/dataset/surface-water-ambient-monitoring-program)
+
+Source update frequency: As needed, as of October 2025 updates to all SWAMP data layers is static and conducted manually. Future goals are to automate this process so updates can occur with greater frequency.
+
+*manually updated here October 2025*
+
+Contact: swamp\@waterboards.ca.gov
+
+#### Habitat:
+
+The SWAMP habitat results includes data on physical habitat conditions typically collected alongside biological monitoring to provide context for interpreting water quality conditions. This data set includes scores for the California Stream Condition Index (CSCI) and Algal Stream Condition Index (ASCI).
+
+*screenshot coming soon*
+
+Source: [SWAMP Data Dashboard - Dataset - California Open Data](https://data.ca.gov/dataset/surface-water-ambient-monitoring-program)
+
+Metadata: [SWAMP Data Dashboard - Dataset - California Open Data](https://data.ca.gov/dataset/surface-water-ambient-monitoring-program)
+
+Source update frequency: As needed, as of October 2025 updates to all SWAMP data layers is static and conducted manually. Future goals are to automate this process so updates can occur with greater frequency.
+
+*manually updated here October 2025*
+
+Contact: swamp\@waterboards.ca.gov
 
 ## Climate Change Indicators
 
