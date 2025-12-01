@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-7bf12d62aa84b4fa538b342f1416a45b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -231,7 +231,10 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#regulated-wastewater-treatment-discharge-facilities" id="toc-regulated-wastewater-treatment-discharge-facilities" class="nav-link" data-scroll-target="#regulated-wastewater-treatment-discharge-facilities"><span class="header-section-number">3.4.9</span> Regulated Wastewater Treatment &amp; Discharge Facilities</a></li>
   <li><a href="#sanitary-sewer-system-spills" id="toc-sanitary-sewer-system-spills" class="nav-link" data-scroll-target="#sanitary-sewer-system-spills"><span class="header-section-number">3.4.10</span> Sanitary Sewer System Spills</a></li>
   </ul></li>
-  <li><a href="#water-quality" id="toc-water-quality" class="nav-link" data-scroll-target="#water-quality"><span class="header-section-number">3.5</span> Water Quality</a></li>
+  <li><a href="#water-quality" id="toc-water-quality" class="nav-link" data-scroll-target="#water-quality"><span class="header-section-number">3.5</span> Water Quality</a>
+  <ul class="collapse">
+  <li><a href="#swamp-data" id="toc-swamp-data" class="nav-link" data-scroll-target="#swamp-data"><span class="header-section-number">3.5.1</span> SWAMP Data</a></li>
+  </ul></li>
   <li><a href="#climate-change-indicators" id="toc-climate-change-indicators" class="nav-link" data-scroll-target="#climate-change-indicators"><span class="header-section-number">3.6</span> Climate Change Indicators</a></li>
   <li><a href="#hydrology" id="toc-hydrology" class="nav-link" data-scroll-target="#hydrology"><span class="header-section-number">3.7</span> Hydrology</a>
   <ul class="collapse">
@@ -852,7 +855,78 @@ Note
 </section>
 <section id="water-quality" class="level2" data-number="3.5">
 <h2 data-number="3.5" class="anchored" data-anchor-id="water-quality"><span class="header-section-number">3.5</span> Water Quality</h2>
-<p><em>New layers coming soon</em></p>
+<section id="swamp-data" class="level3" data-number="3.5.1">
+<h3 data-number="3.5.1" class="anchored" data-anchor-id="swamp-data"><span class="header-section-number">3.5.1</span> SWAMP Data</h3>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>SWAMP data are downloaded from <a href="https://data.ca.gov/dataset/surface-water-ambient-monitoring-program">California’s Open Data Portal</a> and edited to refine, format, and synthesize the data before uploading it into the Tribal Water Data Map. If you are interested in seeing the raw data, please refer to the SWAMP Data Dashboard page on the California Open Data Portal linked above. There is also additional information regarding data sourced from California Environmental Data Exchange Network (CEDEN), data dictionaries, metadata, and related resources.</p>
+</div>
+</div>
+<section id="tissue-summary" class="level4" data-number="3.5.1.1">
+<h4 data-number="3.5.1.1" class="anchored" data-anchor-id="tissue-summary"><span class="header-section-number">3.5.1.1</span> Tissue Summary:</h4>
+<p>The tissue summary data set includes annual summary statistics of contaminant concentrations in aquatic organism tissue samples. The data are derived from raw individual and composite tissue sample results. For the purpose of this map, we have decided to filter out all contaminants other than mercury, and display the most recent data collected from each site.</p>
+<p>Symbology is aligned with the thresholds used by the Office of Environmental Health Hazard Assessment (OEHHA). Each site contains multiple records with different species, and therefore, different mercury concentrations. The color represented on the map is from the first species recorded at the site.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Make sure to look at each individual species report to check the mercury concentrations, as the color representing the general category of OEHHA thresholds may not accurately represent each species at every site.</p>
+</div>
+</div>
+<p>An additional note: The Location Code column has been removed from the data set in order to streamline the information presented. However, the location code is appended to the end of the Results column data and the full length description of the location code can be found <a href="https://ceden.org/CEDEN_Checker/Checker/DisplayCEDENLookUp.php?List=LocationLookUp">here</a> in the data dictionary.</p>
+<p><em>screenshot coming soon</em></p>
+<p>Source: <a href="https://data.ca.gov/dataset/surface-water-ambient-monitoring-program">SWAMP Data Dashboard - Dataset - California Open Data</a></p>
+<p>Metadata: <a href="https://data.ca.gov/dataset/surface-water-ambient-monitoring-program">SWAMP Data Dashboard - Dataset - California Open Data</a></p>
+<p>Source update frequency: As needed, as of October 2025 updates to all SWAMP data layers is static and conducted manually. Future goals are to automate this process so updates can occur with greater frequency.</p>
+<p><em>manually updated here October 2025</em></p>
+<p>Contact: swamp@waterboards.ca.gov</p>
+</section>
+<section id="water-quality-1" class="level4" data-number="3.5.1.2">
+<h4 data-number="3.5.1.2" class="anchored" data-anchor-id="water-quality-1"><span class="header-section-number">3.5.1.2</span> Water Quality:</h4>
+<p>The SWAMP water quality data includes field and lab analysis results for chemical and physical parameters measured in water samples.</p>
+<p>Some of the columns have been removed from the data set for a more streamlined presentation on the map. If you are interested in seeing the full data set, please refer to the source link below. Additionally, if you are seeking information regarding what each column means/what data it is communicating, please refer to the <a href="https://s3.amazonaws.com/og-production-open-data-cademo-892364687672/resources/5f21288d-a770-4651-9427-beffce1ffdbf/swamp-data-dashboard_wq_data-dictionary.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJJIENTAPKHZMIPXQ%2F20251014%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20251014T193602Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=2ce5a1eb10556367c1a07ee7369dbaa08426b356773d0a195be66d9660e3ba28">data dictionary</a>.</p>
+<p><em>screenshot coming soon</em></p>
+<p>Source: <a href="https://data.ca.gov/dataset/surface-water-ambient-monitoring-program">SWAMP Data Dashboard - Dataset - California Open Data</a></p>
+<p>Metadata: <a href="https://data.ca.gov/dataset/surface-water-ambient-monitoring-program">SWAMP Data Dashboard - Dataset - California Open Data</a></p>
+<p>Source update frequency: As needed, as of October 2025 updates to all SWAMP data layers is static and conducted manually. Future goals are to automate this process so updates can occur with greater frequency.</p>
+<p><em>manually updated here October 2025</em></p>
+<p>Contact: swamp@waterboards.ca.gov</p>
+</section>
+<section id="toxicity-summary" class="level4" data-number="3.5.1.3">
+<h4 data-number="3.5.1.3" class="anchored" data-anchor-id="toxicity-summary"><span class="header-section-number">3.5.1.3</span> Toxicity Summary:</h4>
+<p>The SWAMP toxicity summary data includes summarized results from aquatic toxicity tests. Summary records are entries in the database that summarize the results from multiple replicate toxicity tests of the same sample water.</p>
+<p><em>screenshot coming soon</em></p>
+<p>Source: <a href="https://data.ca.gov/dataset/surface-water-ambient-monitoring-program">SWAMP Data Dashboard - Dataset - California Open Data</a></p>
+<p>Metadata: <a href="https://data.ca.gov/dataset/surface-water-ambient-monitoring-program">SWAMP Data Dashboard - Dataset - California Open Data</a></p>
+<p>Source update frequency: As needed, as of October 2025 updates to all SWAMP data layers is static and conducted manually. Future goals are to automate this process so updates can occur with greater frequency.</p>
+<p><em>manually updated here October 2025</em></p>
+<p>Contact: swamp@waterboards.ca.gov</p>
+</section>
+<section id="habitat" class="level4" data-number="3.5.1.4">
+<h4 data-number="3.5.1.4" class="anchored" data-anchor-id="habitat"><span class="header-section-number">3.5.1.4</span> Habitat:</h4>
+<p>The SWAMP habitat results includes data on physical habitat conditions typically collected alongside biological monitoring to provide context for interpreting water quality conditions. This data set includes scores for the California Stream Condition Index (CSCI) and Algal Stream Condition Index (ASCI).</p>
+<p><em>screenshot coming soon</em></p>
+<p>Source: <a href="https://data.ca.gov/dataset/surface-water-ambient-monitoring-program">SWAMP Data Dashboard - Dataset - California Open Data</a></p>
+<p>Metadata: <a href="https://data.ca.gov/dataset/surface-water-ambient-monitoring-program">SWAMP Data Dashboard - Dataset - California Open Data</a></p>
+<p>Source update frequency: As needed, as of October 2025 updates to all SWAMP data layers is static and conducted manually. Future goals are to automate this process so updates can occur with greater frequency.</p>
+<p><em>manually updated here October 2025</em></p>
+<p>Contact: swamp@waterboards.ca.gov</p>
+</section>
+</section>
 </section>
 <section id="climate-change-indicators" class="level2" data-number="3.6">
 <h2 data-number="3.6" class="anchored" data-anchor-id="climate-change-indicators"><span class="header-section-number">3.6</span> Climate Change Indicators</h2>
