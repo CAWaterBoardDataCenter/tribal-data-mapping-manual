@@ -2,14 +2,14 @@
 
 ## Who can contribute
 
-Currently, only members of the OIMA Team are able to make *edits* to this User Manual and the Map, however we are always looking for feedback!
+Currently, only members of the OIMA Team are able to make *edits* to this User Manual and the Mapping Tool, however we are always looking for feedback!
 
 ::: callout-important
 ## We want your feedback!
 
-If you have recommendations for improvement related to the Map or this User Manual you can send it to us by:
+If you have recommendations for improvement related to the Tribal Data Mapping Tool or this User Manual you can send it to us by:
 
--   Completing the [Tribal Water Data Map Survey](https://bit.ly/TWDM_Ideas), OR
+-   Completing the [Tribal Data Mapping Tool Survey](https://bit.ly/TWDM_Ideas), OR
 
 -   Emailing Anna Holder at: [anna.holder\@waterboards.ca.gov](mailto:anna.holder@waterboards.ca.gov), OR
 

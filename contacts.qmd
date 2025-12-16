@@ -1,15 +1,15 @@
 # Meet the Team!
 
-The development of the [Map](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=a71c1841907240e1a4d896c8cf2302a8) and this User Manual has been a team effort from the start. Below is a list of team members within OIMA and tribal partners who have been integral to the development of these resources.
+The development of the [Mapping Tool](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=a71c1841907240e1a4d896c8cf2302a8) and this User Manual has been a team effort from the start. Below is a list of team members within OIMA and Tribal partners who have been integral to the development of these resources.
 
-If you would like to join the Team, please email Anna Holder at: [anna.holder\@waterboards.ca.gov](mailto:anna.holder@waterboards.ca.gov).
+If you would like to join the Team, please email [anna.holder\@waterboards.ca.gov](mailto:anna.holder@waterboards.ca.gov).
 
 ## OIMA
 
 | Name | Title |
 |------------------------------------|------------------------------------|
 | [Anna Holder](mailto:anna.holder@waterboards.ca.gov) | Open Data Science, Equity & Tribal Coordinator |
-| Hannah Merges | 2025 California Sea Grant Fellow |
+| Hannah Merges | 2025-26 California Sea Grant Fellow |
 
 ## Tribal Partners
 
@@ -19,7 +19,7 @@ If you would like to join the Team, please email Anna Holder at: [anna.holder\@w
 | Meyo Marrufo | Former Environmental Director | Guidiville Rancheria |
 | Shasta Gaughen | Director | Pala Band of Mission Indians, Environmental Department ([PED](http://ped.palatribe.com/)) |
 
-: Tribal partners listed in ascending order by Affiliation. We are appreciative and grateful for Meyo Marrufo and Shasta Gaughen who invested time to provide us early feedback on the content of the [Tribal Water Data Initiatives Webpage](https://www.waterboards.ca.gov/resources/oima/tribal_water_data_initiatives/), the [Tribal Water Data Map](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=a71c1841907240e1a4d896c8cf2302a8), and this [Manual](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/).
+: Tribal partners listed in ascending order by Affiliation. We are appreciative and grateful for Meyo Marrufo and Shasta Gaughen who invested time to provide us early feedback on the content of the [Tribal Water Data Initiatives Webpage](https://www.waterboards.ca.gov/resources/oima/tribal_water_data_initiatives/), the [Tribal Data Mapping Tool](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=a71c1841907240e1a4d896c8cf2302a8), and this [Manual](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/).
 
 We also regularly receive critical feedback from the California Issues Workgroup of the US EPA Region 9 Regional Tribal Operations Committee ([RTOC](https://www.epa.gov/tribal-pacific-sw/regional-tribal-operations-committee-rtoc)). See the [Resource Chapter](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/resources.html) of this User Manual for past presentations.
 

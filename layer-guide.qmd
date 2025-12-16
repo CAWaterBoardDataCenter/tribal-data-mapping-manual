@@ -1,6 +1,6 @@
 # Layer Guide
 
-This guide serves to provide greater detail about each layer included in the Tribal Water Data Map.
+This guide serves to provide greater detail about each layer included in the Tribal Data Mapping Tool.
 
 ::: callout-note
 ## Note on default map settings
@@ -544,7 +544,7 @@ Source update frequency: As needed, as of October 2025 updates to all SWAMP data
 
 Contact: swamp\@waterboards.ca.gov
 
-#### Toxicity Summary: 
+#### Toxicity Summary:
 
 The SWAMP toxicity summary data includes summarized results from aquatic toxicity tests. Summary records are entries in the database that summarize the results from multiple replicate toxicity tests of the same sample water.
 
