@@ -104,7 +104,7 @@
     "href": "layer-guide.html",
     "title": "3  Layer Guide",
     "section": "",
-    "text": "3.1 Tribal Land Layers\nThis guide serves to provide greater detail about each layer included in the Tribal Water Data Map.",
+    "text": "3.1 Tribal Land Layers\nThis guide serves to provide greater detail about each layer included in the Tribal Data Mapping Tool.",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Layer Guide</span>"
     ]
@@ -194,7 +194,7 @@
     "href": "resources.html",
     "title": "4  Resources",
     "section": "",
-    "text": "4.1 Websites\nHere you will find a curated list of presentations, webpages and other resources related to the development, implementation and scaling of the Water Board’s Tribal Water Data Map.\nAll Water Boards authors are bolded below.\nWater Boards’ Tribal Water Data Initiatives",
+    "text": "4.1 Websites\nHere you will find a curated list of presentations, webpages and other resources related to the development, implementation and scaling of the Water Board’s Tribal Data Mapping Tool.\nAll Water Boards authors are bolded below.\nWater Boards’ Tribal Water Data Initiatives",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resources</span>"
     ]
@@ -224,7 +224,7 @@
     "href": "contacts.html",
     "title": "5  Meet the Team!",
     "section": "",
-    "text": "5.1 OIMA\nThe development of the Map and this User Manual has been a team effort from the start. Below is a list of team members within OIMA and tribal partners who have been integral to the development of these resources.\nIf you would like to join the Team, please email Anna Holder at: anna.holder@waterboards.ca.gov.",
+    "text": "5.1 OIMA\nThe development of the Mapping Tool and this User Manual has been a team effort from the start. Below is a list of team members within OIMA and Tribal partners who have been integral to the development of these resources.\nIf you would like to join the Team, please email anna.holder@waterboards.ca.gov.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Meet the Team!</span>"
     ]
@@ -234,7 +234,7 @@
     "href": "contacts.html#oima",
     "title": "5  Meet the Team!",
     "section": "",
-    "text": "Name\nTitle\n\n\n\n\nAnna Holder\nOpen Data Science, Equity & Tribal Coordinator\n\n\nHannah Merges\n2025 California Sea Grant Fellow",
+    "text": "Name\nTitle\n\n\n\n\nAnna Holder\nOpen Data Science, Equity & Tribal Coordinator\n\n\nHannah Merges\n2025-26 California Sea Grant Fellow",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Meet the Team!</span>"
     ]
@@ -244,7 +244,7 @@
     "href": "contacts.html#tribal-partners",
     "title": "5  Meet the Team!",
     "section": "5.2 Tribal Partners",
-    "text": "5.2 Tribal Partners\n\nTribal partners listed in ascending order by Affiliation. We are appreciative and grateful for Meyo Marrufo and Shasta Gaughen who invested time to provide us early feedback on the content of the Tribal Water Data Initiatives Webpage, the Tribal Water Data Map, and this Manual.\n\n\nName\nTitle\nAffiliation\n\n\n\n\nSarah Ryan\nEnvironmental Director\nBig Valley Band of Pomo Indians, Environmental Protection Department (Big Valley EPA)\n\n\nMeyo Marrufo\nFormer Environmental Director\nGuidiville Rancheria\n\n\nShasta Gaughen\nDirector\nPala Band of Mission Indians, Environmental Department (PED)\n\n\n\nWe also regularly receive critical feedback from the California Issues Workgroup of the US EPA Region 9 Regional Tribal Operations Committee (RTOC). See the Resource Chapter of this User Manual for past presentations.",
+    "text": "5.2 Tribal Partners\n\nTribal partners listed in ascending order by Affiliation. We are appreciative and grateful for Meyo Marrufo and Shasta Gaughen who invested time to provide us early feedback on the content of the Tribal Water Data Initiatives Webpage, the Tribal Data Mapping Tool, and this Manual.\n\n\nName\nTitle\nAffiliation\n\n\n\n\nSarah Ryan\nEnvironmental Director\nBig Valley Band of Pomo Indians, Environmental Protection Department (Big Valley EPA)\n\n\nMeyo Marrufo\nFormer Environmental Director\nGuidiville Rancheria\n\n\nShasta Gaughen\nDirector\nPala Band of Mission Indians, Environmental Department (PED)\n\n\n\nWe also regularly receive critical feedback from the California Issues Workgroup of the US EPA Region 9 Regional Tribal Operations Committee (RTOC). See the Resource Chapter of this User Manual for past presentations.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Meet the Team!</span>"
     ]
@@ -264,7 +264,7 @@
     "href": "contribute.html",
     "title": "6  Contributing",
     "section": "",
-    "text": "6.1 Who can contribute\nCurrently, only members of the OIMA Team are able to make edits to this User Manual and the Map, however we are always looking for feedback!",
+    "text": "6.1 Who can contribute\nCurrently, only members of the OIMA Team are able to make edits to this User Manual and the Mapping Tool, however we are always looking for feedback!",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Contributing</span>"
     ]
@@ -274,7 +274,7 @@
     "href": "contribute.html#who-can-contribute",
     "title": "6  Contributing",
     "section": "",
-    "text": "ImportantWe want your feedback!\n\n\n\nIf you have recommendations for improvement related to the Map or this User Manual you can send it to us by:\n\nCompleting the Tribal Water Data Map Survey, OR\nEmailing Anna Holder at: anna.holder@waterboards.ca.gov, OR\nSubmitting a GitHub Issue\n\nNote this requires the individual to have a GitHub Account.\nIf you would like to create a GitHub Account, complete Step 3 in the Setup Section below; no other steps need to be completed to submit an Issue.",
+    "text": "ImportantWe want your feedback!\n\n\n\nIf you have recommendations for improvement related to the Tribal Data Mapping Tool or this User Manual you can send it to us by:\n\nCompleting the Tribal Data Mapping Tool Survey, OR\nEmailing Anna Holder at: anna.holder@waterboards.ca.gov, OR\nSubmitting a GitHub Issue\n\nNote this requires the individual to have a GitHub Account.\nIf you would like to create a GitHub Account, complete Step 3 in the Setup Section below; no other steps need to be completed to submit an Issue.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Contributing</span>"
     ]
