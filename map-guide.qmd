@@ -1,8 +1,8 @@
 # Map Guide
 
-This guide serves to provide greater detail about functions within the Tribal Water Data Map.
+This guide serves to provide greater detail about functions within the Tribal Data Mapping Tool.
 
-## **Opening the Web Map**
+## Opening the Web Map
 
 The [link](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=a71c1841907240e1a4d896c8cf2302a8) will take you to the main Portal of the map where you will find basic information like:
 
@@ -21,7 +21,7 @@ The [link](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=a71c184
 
 ![](images/map-guide_open-map.png){fig-alt="A screenshot of the Tribal Water Data Map home page with arrows pointing to: 1. Map Viewing Options button, 2. Map Description, and 3. Layer Dictionary"}
 
-## **Navigating the Map**
+## Navigating the Map
 
 After you have clicked on 'Open in Map Viewer', the web map will open with two default layers being displayed: Regional Board Boundaries and Indigenous Territories.
 
@@ -44,7 +44,7 @@ To navigate the map:
 
 ![](images/map-guide_navigate-map.png){fig-alt="A screenshot of the Map with default layers visible. Arrows pointing to navigation functions 1 through 4 on the map mentioned above."}
 
-## **Navigating Legend and Layers**
+## Navigating Legend and Layers
 
 -   To see information on the map, click on any of the items in the **menu bar** on the left side of the screen. For example, to view other layers you can click on the **Layers** icon, which is displayed directly to the right of the menu bar.
 
@@ -58,7 +58,7 @@ To navigate the map:
 
 ![](images/map-guide_navigate-layers.png){fig-alt="A screenshot of the Map with layers for Indigenous Territories and Regional Water Board Boundaries visible. Moving from left to right across the picture: Menu bar is expanded showing various map options including layers, legend, charts, basemap, tables, bookmarks, etc. Next to the menu bar, the layers tab is expanded showing some of the layers included on this map. A pop-up menu for Region 6 of the Regional Water Board Boundaries layer is above an inset that shows a picture of the legend. To the far right of the picture, a pink arrow is pointing to a pink box that highlights the map properties."}
 
-## **Displaying/Removing View of Layers**
+## Displaying/Removing View of Layers
 
 -   On the **Menu Bar**, click **Layers** . All the layers of the map will be listed (but not yet displayed). The layer categories (3.1, 3.2, 3.3, 3.4, 3.5, and 3.6) are coordinated with the section in the [Layer Guide](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/layer-guide.html) that outlines each layer and its important/relevant information.
 
@@ -68,7 +68,7 @@ To navigate the map:
 
 ![](images/map-guide_content-pane.png){fig-alt="A screenshot of the Map zoomed in with layers for Indigenous Territories and Regional Water Board Boundaries visible. Menu bar is expanded with Layers section selected. Spaces to the right of the layer names are outlined with a pink box. Bracket with label is present next to all Visible layers. Layers that are Not Visible are identified as such and represented by eye icon with a slash through it. Far right side of the picture shows Properties panel expanded as a result of clicking the layer name rather than the eye icon."}
 
-## **Adjusting Layer Transparency**
+## Adjusting Layer Transparency
 
 To change the transparency of the layers:
 
