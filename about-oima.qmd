@@ -2,14 +2,21 @@
 
 ## Overview
 
-The California State Water Resources Control Board's ([State Water Board](https://www.waterboards.ca.gov/)) Office of Information Management and Analysis ([OIMA](https://www.waterboards.ca.gov/resources/oima/)), serves as an advocate for data management, a bridge between data collectors and users, and provides transparency of the Water Board's information management infrastructure.
+The California State Water Resources Control Board's ([State Water Board](https://www.waterboards.ca.gov/)) Office of Information Management and Analysis ([OIMA](https://www.waterboards.ca.gov/resources/oima/)) is here to empower & support people, so that our water data systems educate communities & inform decisions to protect the environment and public health.
 
-> OIMA's goal is to collaborate monitoring efforts, accurately analyze data, make our data easily accessible, and create visualizations and reports that make data understandable across all audiences.
+The processes and actions OIMA takes to realize our purpose can be summarized with four main themes:
+
+-   We ensure the value of data by engaging each phase of the data life cycle.
+-   We innovate by leveraging our strengths and doing different with less.
+-   We serve communities by asking questions, listening, and learning to build capacity and inspire good science.
+-   We nurture a healthy work culture.
+
+See [this statement](https://drive.google.com/file/d/1ShkwywAbDKdK-_lyBroWtYCYkTB6YUIo/view?usp=sharing) for more details.
 
 ## Tribal Water Data Initiatives
 
-OIMA is committed to [advancing equity](https://www.waterboards.ca.gov/racial_equity/resolution-and-actions.html), inclusion, and belonging in our work, our office, and at the Water Boards. Meaningful engagement and partnership with California Native American Tribes (tribes) is fundamental to this work.
+OIMA is committed to [advancing equity](https://www.waterboards.ca.gov/racial_equity/resolution-and-actions.html), inclusion, and belonging in our work, our office, and at the Water Boards. Meaningful engagement and partnership with California Native American Tribes (Tribes) is fundamental to this work.
 
-OIMA has begun to work with Tribal partners on a series of water data initiatives -- including the [Tribal Water Data Map](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=a71c1841907240e1a4d896c8cf2302a8) and this [User Manual](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/) -- to build relationships and work together to better understand, streamline, and improve the interactions between Water Board data systems and those of our Tribal government partners.
+OIMA has begun to work with Tribal partners on a series of water data initiatives -- including the [Tribal Data Mapping Tool](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=a71c1841907240e1a4d896c8cf2302a8) and this [User Manual](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/) -- to build relationships and work together to better understand, streamline, and improve the interactions between Water Board data systems and those of our Tribal government partners.
 
 Visit our [Tribal Water Data Initiatives](https://www.waterboards.ca.gov/resources/oima/tribal_water_data_initiatives/) website for information on other initiatives.
