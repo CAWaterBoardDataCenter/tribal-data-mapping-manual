@@ -207,9 +207,9 @@ If you are curious to learn more about CalEnviroScreen beyond the questions belo
 ::: callout-note
 ## How is the CalEnviroScreen Score calculated?
 
-The CalEnviroScreen score uses Census Tract information and compares levels of exposure, environmental effects, sensitive populations, and socioeconomic factors across all tracts. OEHHA converts raw data values for each indicator into a percentile to be able to compare results across the state.
+The CalEnviroScreen score uses Census Tract information and compares exposure levels, environmental effects, sensitive population information, and socioeconomic factors across all tracts. OEHHA converts raw data values for each indicator into a percentile to be able to compare results across the state.
 
-After each indicator is assigned a percentage, OEHHA calculates the average of the exposure indicator percentiles and the average of the environmental effect percentiles. These two averages are then combined and divided by 10 to calculate the Pollution Burden score, which ranges from 0-10.
+After each indicator is assigned a percentage, OEHHA then calculates both the average of the exposure indicator percentiles and the average of the environmental effect percentiles. These two averages are then combined and divided by 10 to calculate the Pollution Burden score, which ranges from 0-10.
 
 This same process is completed for the Population Characteristics, which combines the averages of the indicators for sensitive populations and socioeconomic factors.
 
@@ -220,9 +220,9 @@ See Training [Module 6](https://www.youtube.com/watch?v=zqFETEZ9lFM&t=599s) for 
 
 ### CalEnviroScreen 5.0
 
-This layer shows the CalEnviroScreen (CES) 5.0 based on the CES Score.
+This layer shows the CalEnviroScreen (CES) 5.0, and is visualized based on the CES Score.
 
-CalEnviroScreen is a screening methodology that can be used to help identify California communities that are disproportionately burdened by pollution and other environmental concerns. This value, also shown as the Ciscore on the map, ranges from 0 to 100 with higher values indicating higher burden. We show the census tracts with the highest scores in red. For more information on CalEnviroScreen scoring, see above.
+CalEnviroScreen is a screening methodology that can be used to help identify California communities that are disproportionately burdened by pollution and other environmental concerns. This value, also shown as the Ciscore on the map, ranges from 0 to 100 with higher values indicating higher burden. We show the census tracts with the highest scores in red, and the lowest in green. For more information on CalEnviroScreen scoring, see above.
 
 CalEnviroScreen was recently updated from version 4.0 to 5.0, and this new version is now shown in the current Mapping Tool. Changes from CES 4.0 to 5.0 include updating the census geography from 2010 census tracts data to 2020, and including a few more indicators - such as diabetes prevalence and proximity to small air pollution sites.
 
@@ -265,7 +265,7 @@ Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenvir
 
 While useful as a broad indicator, there exists ongoing critiques and discussions surrounding the accuracy and limitations of CES and similar census-level screening metrics. CalEnviroScreen scores are incredibly financially consequential. The CalEnviroScreen value directs funding from public and private sources, and impacts eligibility for social services. The highest scoring neighborhoods are listed formally as Disadvantaged Communities, to which 25% of the proceeds of California's cap-and-trade program are directed. As such, any efficacy or justice concerns with CalEnviroScreen can have major impacts on communities.
 
-A consistent high level concern is the census-level nature of the CalEnviroScreen value. Since the unit of analysis is individual census tracts, these are much larger than natural divisions in communities. With a long-standing history of gentrification in San Francisco and other urban areas, increasingly wealthy neighborhoods exist in close proximity to economically disadvantaged communities which can skew the economic vulnerability metrics when examined at a larger scale. (See an[ article](#0) from the San Francisco Public Press about disadvantaged community changes from CalEnviroScreen 4.0 to 5.0)
+A consistent high level concern is the census-level nature of the CalEnviroScreen value. Since the unit of analysis is individual census tracts, these are much larger than natural divisions in communities. With a long-standing history of gentrification in San Francisco and other urban areas, increasingly wealthy neighborhoods exist in close proximity to economically disadvantaged communities which can skew the economic vulnerability metrics when examined at a larger scale. (See [article](https://www.sfpublicpress.org/state-vulnerability-metric-overlooks-sf-neighborhoods-excluding-them-from-billions/) from the San Francisco Public Press released in July 2026 regarding disadvantaged community designation changes from CalEnviroScreen 4.0 to 5.0)
 
 Other critiques include the sensitivity of CalEnviroScreen to model specifications, which are often changed between model versions. A [recent scientific paper](https://www.nature.com/articles/s42256-024-00793-y) published in Nature found that 16% of all census tracts could change designations based on very small alterations to the model, which is more alarming given that only 25% of census tracts are allocated a designation. Awareness of model limitations and subjectivity is critical as we continue to adapt these combined-metric models and understand ongoing changes.
 :::
@@ -624,7 +624,7 @@ Social vulnerability describes conditions that can increase a community’s sens
 “Current” does not represent one collection year across all layers. Some indicators use climate estimates covering a range of years; others use mapped hazard areas or supporting data collected at different times. The future layers labeled “2050” represent the periods or conditions described below.
 
 | Hazard | Model or approach | Current conditions | Future conditions labeled “2050” |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | **Extreme heat** | LOCA2 CA Hybrid climate projections using the high-emissions scenario SSP3-7.0. Indicators include days above 100°F and unusually hot nights. | Climate estimates for **2015–2044**. | Climate estimates for **2045–2074**. |
 | **Drought** | LOCA2 CA Hybrid summer temperature projections using SSP3-7.0, combined with water shortage vulnerability and indicators of water availability relative to population and cultivated land. | Summer temperature estimates for **2015–2044**, combined with supporting indicators. | Summer temperature estimates for **2045–2074**, combined with the same supporting indicators. |
 | **Flooding** | California Department of Water Resources Best Available Maps of floodplains, combined with LOCA2 CA Hybrid heavy-rainfall projections using SSP3-7.0. | **100-year floodplains**, combined with rainfall estimates for **2015–2044**. | **500-year floodplains**, combined with rainfall estimates for **2045–2074**. |
