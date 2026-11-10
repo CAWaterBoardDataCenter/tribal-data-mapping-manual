@@ -226,9 +226,9 @@ CalEnviroScreen is a screening methodology that can be used to help identify Cal
 
 CalEnviroScreen was recently updated from version 4.0 to 5.0, and this new version is now shown in the current Mapping Tool. Changes from CES 4.0 to 5.0 include updating the census geography from 2010 census tracts data to 2020, and including a few more indicators - such as diabetes prevalence and proximity to small air pollution sites.
 
-![Screenshot of interactive map showing CalEnviroScreen scores by census tract](images/layer-guide_calenviroscreen.png)
+![Screenshot of interactive map showing CalEnviroScreen 5.0 percentile scores by census tract.](images/layer-guide-calenviroscreen-5.0.png){fig-alt="Screenshot of interactive map showing CalEnviroScreen 5.0 percentile scores by census tract."}
 
-Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
+Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://data.ca.gov/@california-office-of-environmental-health-hazard-assessment/calenviroscreen-5-0)
 
 Source update frequency: As needed
 
@@ -240,7 +240,9 @@ Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenvir
 
 As described above, Population Characteristics is one component of the total CalEnviroScreen score and combines indicators regarding sensitive populations and socioeconomic factors. This score does not include any environmental impacts, and thus can be used to explore strictly social burdens across the state.
 
-Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
+![Screenshot of interactive map showing Pollution Burden scores by tract.](images/layer-guide-population-characteristics-5.0.png){fig-alt="Screenshot of interactive map showing Pollution Burden scores by tract."}
+
+Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://data.ca.gov/@california-office-of-environmental-health-hazard-assessment/calenviroscreen-5-0)
 
 Source update frequency: As needed
 
@@ -252,7 +254,9 @@ Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenvir
 
 Pollution Burden the second aggregated component of the total CalEnviroScreen score and combines indicators regarding pollution exposure and environmental effects in general. It does not include any socioeconomic impacts, and thus this value can be used to explore strictly environmental burdens across the state. 
 
-Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
+![Screenshot of interactive map showing Pollution Burden scores by tract.](images/layer-guide-pollution-burden-5.0.png){fig-alt="Screenshot of interactive map showing Pollution Burden scores by tract."}
+
+Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://data.ca.gov/@california-office-of-environmental-health-hazard-assessment/calenviroscreen-5-0)
 
 Source update frequency: As needed
 
@@ -272,17 +276,17 @@ Other critiques include the sensitivity of CalEnviroScreen to model specificatio
 
 ### Disadvantaged Communities
 
-This map shows the disadvantaged communities designated by CalEPA for the purpose of SB 535. These areas represent the 25% highest scoring census tracts in CalEnviroScreen 4.0, census tracts previously identified in the top 25% in CalEnviroScreen 3.0, census tracts with high amounts of pollution and low populations, and federally recognized tribal areas as identified by the Census in the 2021 American Indian Areas Related National Geodatabase.
+This map shows the disadvantaged communities designated by CalEPA for the purpose of SB 535, which requires that a minimum share of the proceeds from the state's Cap-and-Invest Program benefit California's most burdened communities. As of 2026, these areas represent the 25% highest overall scoring census tracts in CalEnviroScreen 5.0, as well as census tracts with the highest 5% of CalEnviroScreen 5.0 pollution tracts, census tracts that overlap geographically at least by 25% with a 2022 DAC-designated census tract based on CalEnviroScreen 4.0, and federally recognized tribal lands. This allows some of the previous DAC-designated census tracts to retain funding, despite changes to census boundaries, and prioritizes the most extreme instances of environmental pollution regardless of social vulnerability. An important note is that while tribal lands *are* included in the 2026 DAC communities, these geographic layers are not repeated in this section. Instead, we ask the user to add layers from section 3.1 (specifically 3.1.1.6 All Tracts) to visualize all DAC communities.
 
-![Screenshot of interactive map showing disadvantaged communities in CalEnviroScreen 4.0](images/layer-guide_disadvantaged-communities.png)
+![Screenshot of interactive map showing disadvantaged communities in CalEnviroScreen 5.0](images/layer-guide-disadvantaged-communties-5.0.png){fig-alt="Screenshot of interactive map showing disadvantaged communities in CalEnviroScreen 5.0"}
 
-Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
+Source: [California Environmental Protection Agency](https://data.ca.gov/@california-office-of-environmental-health-hazard-assessment/sb-535-disadvantaged-communities-2026)
 
 Source update frequency: As needed
 
 *automatically synced here*
 
-Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
+Contact: [DAC Inquiries](DACinquiries@calepa.ca.gov)
 
 ## Pollution Indicators
 
